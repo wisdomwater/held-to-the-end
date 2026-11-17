@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "held-to-the-end",
+  "workType": "original",
+  "title": "Held to the End",
+  "subtitle": "Trusting God with Judgment, Healing and the Life Everlasting",
+  "author": "Michael Collins",
+  "sourceAuthors": [],
+  "sourceWorks": [],
+  "summary": "An original Christian contemplative journey through mortality, death, resurrection, judgment, and the hope of restoration. Michael Collins invites readers carrying grief or fear to trust that the love revealed in Christ does not abandon what it holds.",
+  "description": "Held to the End begins with questions born of love and loss: what becomes of us, what happens when we die, and whether we remain held by God. Seven chapters explore human life as gift and relationship, the fears of mortality, immortality, death, resurrection, fire and judgment, and life everlasting. Drawing on Scripture within an original contemplative argument, Michael Collins presents judgment as truth serving healing and explores hope for the restoration of all things without dismissing accountability or freedom. A preface, introduction, and epilogue frame the journey as an invitation to trust rather than a complete map of the afterlife. This is a particular Christian perspective offered with humility before mystery.",
+  "keywords": [
+    "Christian hope",
+    "life everlasting",
+    "mortality",
+    "resurrection",
+    "restorative judgment",
+    "universal restoration",
+    "grief and trust"
+  ],
+  "themes": [
+    "hope",
+    "trust",
+    "mercy",
+    "suffering",
+    "love",
+    "uncertainty",
+    "divine-presence"
+  ],
+  "traditions": [
+    "Christianity",
+    "Christian contemplation"
+  ],
+  "language": "en",
+  "cover": {
+    "front": "artwork/cover.png"
+  },
+  "publication": {
+    "status": "unverified",
+    "edition": null,
+    "publishedAt": null,
+    "freeWebEligibleAt": null,
+    "rightsStatus": "unresolved",
+    "metadataReview": "pending"
+  },
+  "links": {
+    "github": "https://github.com/wisdomwater/held-to-the-end",
+    "amazon": "https://www.amazon.com/dp/B0GGR1DFDS"
+  },
+  "formats": [
+    "pdf",
+    "paperback",
+    "epub",
+    "docx",
+    "md"
+  ]
+}

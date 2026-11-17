@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "entries": {
+    "preface": {
+      "contentId": "preface",
+      "summary": "A family conversation about loved ones who have died begins an invitation to trust the goodness revealed in Jesus. The author approaches the unseen without claiming special knowledge, hoping to make room for grief, questions, and mercy.",
+      "keywords": [
+        "family conversation",
+        "grief",
+        "God's goodness",
+        "trust beyond certainty"
+      ],
+      "themes": [
+        "trust",
+        "suffering",
+        "hope"
+      ],
+      "readingMinutes": 2
+    },
+    "introduction": {
+      "contentId": "introduction",
+      "summary": "The introduction welcomes questions about death, judgment, and whether love holds at the end. It sets a slow contemplative pace, inviting trust without requiring the reader to resolve every mystery.",
+      "keywords": [
+        "being held",
+        "questions about death",
+        "contemplative reading",
+        "trust"
+      ],
+      "themes": [
+        "trust",
+        "uncertainty",
+        "hope"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-001": {
+      "contentId": "chapter-001",
+      "summary": "Human life is explored as embodied, finite, relational, and continually received from God. Dependence, vulnerability, and unfinished growth become invitations to belonging and grace rather than failures of self-sufficiency.",
+      "keywords": [
+        "humanity",
+        "embodiment",
+        "divine breath",
+        "image of God",
+        "formation"
+      ],
+      "themes": [
+        "community",
+        "grace",
+        "spiritual-growth"
+      ],
+      "readingMinutes": 15
+    },
+    "chapter-002": {
+      "contentId": "chapter-002",
+      "summary": "Awareness of death exposes fears of being forgotten, abandoned, or left unfinished. The chapter listens to what those fears reveal about love, inviting honest acceptance of limits within the hope of being known and held.",
+      "keywords": [
+        "mortality",
+        "fear of death",
+        "being forgotten",
+        "unfinished life",
+        "abandonment"
+      ],
+      "themes": [
+        "suffering",
+        "uncertainty",
+        "hope"
+      ],
+      "readingMinutes": 17
+    },
+    "chapter-003": {
+      "contentId": "chapter-003",
+      "summary": "Immortality is presented as a gift of continuing relationship with God rather than an independent possession. Considering breath, death, freedom, and revelation, the chapter places its hope in divine faithfulness beyond what the reader can presently know.",
+      "keywords": [
+        "immortality",
+        "life as gift",
+        "continued relationship",
+        "freedom beyond death",
+        "divine faithfulness"
+      ],
+      "themes": [
+        "trust",
+        "grace",
+        "uncertainty"
+      ],
+      "readingMinutes": 19
+    },
+    "chapter-004": {
+      "contentId": "chapter-004",
+      "summary": "Questions about death arise from love for people whose absence hurts. The chapter considers rest, waiting, bonds across death, and resurrection while resisting a detailed map of the unseen and entrusting unresolved questions to God.",
+      "keywords": [
+        "death",
+        "grief",
+        "rest and waiting",
+        "bonds across death",
+        "resurrection"
+      ],
+      "themes": [
+        "suffering",
+        "community",
+        "trust"
+      ],
+      "readingMinutes": 14
+    },
+    "chapter-005": {
+      "contentId": "chapter-005",
+      "summary": "Resurrection is explored as transformed embodied life rather than mere resuscitation or escape from the body. Fears of limitation and exposure meet a hope of being fully known, healed, and able to participate joyfully in community.",
+      "keywords": [
+        "resurrection",
+        "transformed embodiment",
+        "being known",
+        "renewed creation",
+        "joy"
+      ],
+      "themes": [
+        "hope",
+        "community",
+        "freedom"
+      ],
+      "readingMinutes": 12
+    },
+    "chapter-006": {
+      "contentId": "chapter-006",
+      "summary": "The chapter approaches fears of fire and judgment through images of divine presence, revealing light, and birth. Within the book's restorative reading, truth confronts what harms us while God accompanies rather than abandons the person being healed.",
+      "keywords": [
+        "restorative judgment",
+        "divine fire",
+        "revealing light",
+        "accountability",
+        "accompaniment"
+      ],
+      "themes": [
+        "mercy",
+        "divine-presence",
+        "trust"
+      ],
+      "readingMinutes": 19
+    },
+    "chapter-007": {
+      "contentId": "chapter-007",
+      "summary": "Life everlasting is imagined as creation healed and brought to fulfillment through Christ. The chapter explores universal restoration alongside moral accountability and freedom, arguing that hope for healing need not minimize the seriousness of evil.",
+      "keywords": [
+        "life everlasting",
+        "universal restoration",
+        "reconciliation of all things",
+        "moral accountability",
+        "freedom"
+      ],
+      "themes": [
+        "hope",
+        "mercy",
+        "love"
+      ],
+      "readingMinutes": 15
+    },
+    "epilogue": {
+      "contentId": "epilogue",
+      "summary": "At the edge of mystery, the epilogue returns to the character of God revealed in Jesus. It invites release from religious fear, hope in judgment as healing mercy, and the entrusting of friends, enemies, living, and dead to divine care.",
+      "keywords": [
+        "mystery",
+        "religious fear",
+        "judgment as mercy",
+        "entrusting others",
+        "benediction"
+      ],
+      "themes": [
+        "trust",
+        "mercy",
+        "hope"
+      ],
+      "readingMinutes": 10
+    }
+  }
+}

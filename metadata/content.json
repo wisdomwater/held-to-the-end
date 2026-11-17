@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "content": [
+    {
+      "id": "copyright-print",
+      "path": "copyright.md",
+      "type": "copyright",
+      "title": "Copyright (print)",
+      "includeIn": [
+        "pdf",
+        "paperback"
+      ],
+      "searchable": false,
+      "dailyEligible": false
+    },
+    {
+      "id": "copyright-digital",
+      "path": "copyright-epub.md",
+      "type": "copyright",
+      "title": "Copyright (digital)",
+      "includeIn": [
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false
+    },
+    {
+      "id": "preface",
+      "path": "preface.md",
+      "type": "preface",
+      "title": "Preface",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": false
+    },
+    {
+      "id": "introduction",
+      "path": "chapters/00.md",
+      "type": "introduction",
+      "title": "Introduction",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": false
+    },
+    {
+      "id": "chapter-001",
+      "path": "chapters/01.md",
+      "type": "chapter",
+      "title": "What Does It Mean to Be Human?",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": false
+    },
+    {
+      "id": "chapter-002",
+      "path": "chapters/02.md",
+      "type": "chapter",
+      "title": "What Does It Mean To Be Mortal?",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": false
+    },
+    {
+      "id": "chapter-003",
+      "path": "chapters/03.md",
+      "type": "chapter",
+      "title": "What Does Scripture Mean by Immortality?",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": false
+    },
+    {
+      "id": "chapter-004",
+      "path": "chapters/04.md",
+      "type": "chapter",
+      "title": "What Happens When We Die?",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": false
+    },
+    {
+      "id": "chapter-005",
+      "path": "chapters/05.md",
+      "type": "chapter",
+      "title": "What Is Resurrection?",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": false
+    },
+    {
+      "id": "chapter-006",
+      "path": "chapters/06.md",
+      "type": "chapter",
+      "title": "What Is The Purpose Behind Fire And Judgment?",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": false
+    },
+    {
+      "id": "chapter-007",
+      "path": "chapters/07.md",
+      "type": "chapter",
+      "title": "What Is Life Everlasting?",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": false
+    },
+    {
+      "id": "epilogue",
+      "path": "chapters/08.md",
+      "type": "epilogue",
+      "title": "Epilogue",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": false
+    }
+  ],
+  "excluded": [
+    {
+      "path": "README.md",
+      "reason": "Repository description; not included by the existing compiler."
+    },
+    {
+      "path": "back-cover.md",
+      "reason": "Back-cover marketing copy; not a manuscript input."
+    },
+    {
+      "path": "blank.md",
+      "reason": "Empty leading placeholder in the existing compiler; emits no text."
+    }
+  ]
+}
